@@ -1,0 +1,3 @@
+puts "Bonjour, monde !"
+#puts "Et avec une voix sexy, ça donne : Bonjour, monde !"
+# Comme le dirait Vald, il a pas dit bonjour... du coup il s'est fait ... 
